@@ -1,1 +1,1 @@
-Dotfiles for the Hyprland variant of my personal Arch-based distro
+Basic dotfiles for the Hyprland variant of my personal Arch-based distro
