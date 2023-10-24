@@ -1,1 +1,1 @@
-Some hyprland dotfiles
+The hyprland dotfiles that I use
